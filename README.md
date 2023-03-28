@@ -55,7 +55,9 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## Output  :
- 
+![1](https://user-images.githubusercontent.com/119560261/228209509-5717b224-393d-4c5a-a641-55cbeaf2d625.jpeg)
+![3](https://user-images.githubusercontent.com/119560261/228209585-ffab4c28-a70a-4a9a-ab55-61baa93c105e.jpeg)
+
  
  
  
